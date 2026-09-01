@@ -4,7 +4,7 @@ A responsive YouTube homepage clone built using **HTML and CSS**.
 
 ## Preview
 
-![YouTube Clone Screenshot](utube.png)
+![YouTube Clone Screenshot](utube.PNG)
 
 ## About the Project
 
